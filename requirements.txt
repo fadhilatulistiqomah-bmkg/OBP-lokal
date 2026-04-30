@@ -1,0 +1,11 @@
+streamlit
+pandas
+folium
+streamlit-folium
+branca
+plotly
+matplotlib
+numpy
+windrose
+openpyxl
+
